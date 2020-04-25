@@ -89,6 +89,7 @@ header.fixed {
   border-color: #eee;
   animation: fixHeader .5s ease;
   z-index: 11;
+  border-bottom: 1px solid #80797e;
 }
 
 @keyframes fixHeader {

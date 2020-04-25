@@ -21,6 +21,6 @@
 > https://www.youtube.com/watch?v=0rWnb2w52ic
 ##### Responsive
 > https://www.youtube.com/watch?v=o5PwZ1Bp_Qk
-## Thank to The WebShala Youtube channel.
+###### Thank to The WebShala Youtube channel.
 * Link deployed on Netlify:
-> 
+> https://flamboyant-curie-2f4451.netlify.app/#about
